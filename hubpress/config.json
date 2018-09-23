@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://niels-db.github.io/hubpresstest",
+    "hubpress": "https://niels-db.github.io/hubpresstest",
+    "theme": "//niels-db.github.io/hubpresstest/themes/casper",
+    "images": "https://niels-db.github.io/hubpresstest/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
